@@ -37,6 +37,7 @@ dependencies:
   provider: ^6.0.1
   intl: ^0.17.0
   pie_chart: ^5.1.0
+  image_picker: ^0.8.4+4
 
 dev_dependencies:
   flutter_test:
