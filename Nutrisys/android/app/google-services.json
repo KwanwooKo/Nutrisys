@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "473089857358",
+    "firebase_url": "https://nutrisis-fd647-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nutrisis-fd647",
+    "storage_bucket": "nutrisis-fd647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473089857358:android:84d2d4af4102cb5b26701f",
+        "android_client_info": {
+          "package_name": "com.example.nutrisis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473089857358-lqplghpnl3f2i0nhecb1hdg20ntjuvjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzg1uuDORczv_bOH14O8LsdETv1am0Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473089857358-lqplghpnl3f2i0nhecb1hdg20ntjuvjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473089857358-68mbk337vcjv0c542494v1qhfs5hkk3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrisys"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473089857358:android:6cbb467dbd3fe16d26701f",
+        "android_client_info": {
+          "package_name": "com.example.nutrisys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473089857358-lqplghpnl3f2i0nhecb1hdg20ntjuvjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzg1uuDORczv_bOH14O8LsdETv1am0Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473089857358-lqplghpnl3f2i0nhecb1hdg20ntjuvjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473089857358-68mbk337vcjv0c542494v1qhfs5hkk3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrisys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

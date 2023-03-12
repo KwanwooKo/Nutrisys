@@ -43,6 +43,8 @@ dependencies:
   pie_chart: ^5.1.0
   localstore: ^1.3.4
   get: ^4.6.5
+  firebase_database: ^10.0.14
+  cloud_firestore: ^4.4.3
 
 dev_dependencies:
   flutter_test:
